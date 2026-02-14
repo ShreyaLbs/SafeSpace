@@ -13,13 +13,15 @@
 - Member 2: Pavithra K M- LBS Institute of Technology for Women
 
 ### Hosted Project Link
+https://shreyalbs.github.io/SafeSpace/
 
 
 ### Project Description
-SafeSpeak transforms silent civic frustration into collective action by giving every citizen a safe voice to report issues, amplify urgent concerns through community support, and drive transparent resolution from authorities.
+SafeSpace transforms silent civic frustration into collective action by giving every citizen a safe voice to report issues, amplify urgent concerns through community support, and drive transparent resolution from authorities.
 
 ### The Problem statement
-[What problem are you solving?]
+
+Urban cities like Kochi face thousands of unresolved civic issues daily — potholes, broken streetlights, garbage dumps, and safety hazards — simply because there is no simple, direct way for citizens to report them to the right authority. The existing process is bureaucratic, time-consuming, and discouraging, causing most people to stay silent. Meanwhile, authorities have no structured system to receive and prioritize complaints from the public, leaving critical issues unaddressed for months. SafeSpace solves this by providing a two-sided platform where citizens can report issues anonymously in seconds and route them directly to the responsible authority, while authorities get a clean dashboard to manage, filter, and resolve complaints efficiently.
 
 ### The Solution
 [How are you solving it?]
