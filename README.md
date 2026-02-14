@@ -151,7 +151,11 @@ Load → Initialize seed reports → Citizen submits form → Photo converts to 
 
 **Application Workflow:**
 
-![Workflow](docs/workflow.png)
+<p align="center">
+  <img src="<p align="center">
+  <img src="\images\Screenshot 2026-02-14 113145.png" alt="Application workflow" width="100%">
+</p>" alt="Team Photo" width="100%">
+</p>
 *Add caption explaining your workflow*
 
 ---
@@ -413,12 +417,12 @@ python script.py -v --format json data.json
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+https://drive.google.com/drive/folders/1wKdkKjdeoGdWvCXee3YY0DWSDAdRciQk?usp=sharing
 
 *Explain what the video demonstrates - key features, user flow, technical highlights*
 
 ### Additional Demos
-[Add any extra demo materials/links - Live site, APK download, online demo, etc.]
+
 
 ---
 
@@ -434,9 +438,9 @@ Chatgpt,Claude,Gemini,Copilot
 -  Code review and optimization suggestions
 
 **Key Prompts Used:**
-- "Create a REST API endpoint for user authentication"
+- "Help us to create the login and password for authority"
 - "Debug this async function that's causing race conditions"
-- "Optimize this database query for better performance"
+
 
 **Percentage of AI-generated code:** 75% ,rest we debugged and we added and edited.
 
